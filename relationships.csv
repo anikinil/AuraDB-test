@@ -1,0 +1,6 @@
+start_id,end_id,type,description
+1,2,INSPIRED_BY,"Leibniz was inspired by Descartes' idea of a universal language lexicon."
+1,5,INSPIRED_BY,"Leibniz acknowledged Ramon Llull's Ars Generalis Ultima as an inspiration."
+1,4,CREATED,"Leibniz outlined the characteristica universalis."
+4,6,CONTAINS,"The characteristica universalis includes the alphabet of human thought."
+5,7,WRITTEN_BY,"Ars Generalis Ultima was written by Ramon Llull."
