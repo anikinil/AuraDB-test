@@ -1,6 +1,8 @@
-start_id,end_id,type,description
-1,2,INSPIRED_BY,Leibniz was inspired by Descartes idea of a universal language lexicon.
-1,5,INSPIRED_BY,Leibniz acknowledged Ramon Llulls Ars Generalis Ultima as an inspiration.
-1,4,CREATED,Leibniz outlined the characteristica universalis.
-4,6,CONTAINS,The characteristica universalis includes the alphabet of human thought.
-5,7,WRITTEN_BY,Ars Generalis Ultima was written by Ramon Llull.
+start_id,end_id,type
+1,2,KNOWS
+1,3,KNOWS
+2,4,LIVES_IN
+3,5,LIVES_IN
+1,6,READS
+2,7,READS
+3,6,READS
