@@ -1,8 +1,8 @@
-id,label,name,description
-1,Person,Leibniz,A German philosopher and mathematician who had an early interest in logic.
-2,Person,Descartes,A French philosopher who suggested a universal language lexicon.
-3,Person,Noam Chomsky,A linguist who defined computational linguistics.
-4,Concept,Characteristica Universalis,An artificial language proposed by Leibniz where grammatical and logical structure would coincide.
-5,Work,Ars Generalis Ultima,A work by Ramon Llull that inspired Leibnizs characteristica universalis.
-6,Concept,Alphabet of Human Thought,The basic elements of Leibnizs characteristica universalis.
-7,Person,Ramon Llull,A philosopher whose work inspired Leibniz.
+id,label,name
+1,Person,Alice
+2,Person,Bob
+3,Person,Charlie
+4,City,NewYork
+5,City,SanFrancisco
+6,Book,BookA
+7,Book,BookB
